@@ -1,1 +1,15 @@
 2.10.1
+
+Notes:
+
+$ git init
+
+$ git status 
+
+$ git add *
+
+$ git status
+
+$ git commit -m "name"
+
+*Copy line of code when starting new repository*
